@@ -1,2 +1,2 @@
-# Practica-1-INA
-Práctica INA 2024/25
+# Practica 1 24/25
+El código se ha desarrollado desde cero para la práctica.
